@@ -22,15 +22,7 @@ A sleek, dark-themed React tool that transforms messy SVG files into clean, morp
 
 ## 🚀 Quick Start
 
-```bash
-# Install dependencies
-npm install
-
-# Fire it up
-npm run dev
-```
-
-Then navigate to `localhost:5173` and start forging those morphs.
+Navigate to the [svgfixer.vercel.app](https://svgfixer.vercel.app) and start forging those morphs.
 
 ## 🛠️ Tech Stack
 
